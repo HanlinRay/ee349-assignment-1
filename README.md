@@ -5,9 +5,7 @@ Two independent parts.
 ## `ass1_part1/` — Development environment verification
 
 Demonstrates a working development environment: **Git, GitHub, Docker, Make,
-and a coding agent.** The Python program is deliberately trivial (`add(a, b)`
-plus a pytest suite) because the toolchain is what is being verified, not the
-code.
+and a coding agent.** The Python program is trivial for verify chain
 
 ```bash
 cd ass1_part1
